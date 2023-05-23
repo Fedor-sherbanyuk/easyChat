@@ -3,9 +3,9 @@
       import "bootstrap/dist/css/bootstrap.min.css";
 
       const profiles = [
-      { id: 1, name: "User 1", avatar: "/img/Doctor.png" },
-      { id: 2, name: "User 2", avatar: "/img/squirrel.jpg" },
-      { id: 3, name: "User 3", avatar: "/img/squirrel2.jpg" },
+      { id: 1, name: "Unit 1", avatar: "/img/Doctor.png" },
+      { id: 2, name: "Unit 2", avatar: "/img/squirrel.jpg" },
+      { id: 3, name: "Unit 3", avatar: "/img/squirrel2.jpg" },
       ];
 
       const Chat = () => {
